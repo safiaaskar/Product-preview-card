@@ -1,4 +1,5 @@
 # Frontend Mentor - Product preview card component
+https://safiaaskar.github.io/Product-preview-card/
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
